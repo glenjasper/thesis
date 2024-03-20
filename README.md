@@ -1,4 +1,4 @@
-# Supplementary material for the thesis.
+# Supplementary material for the thesis
 
 ## Chapter I
 
